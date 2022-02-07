@@ -27,7 +27,7 @@
 
 				arrLightStyle = [
 					'color: #1f1f1f',
-					'background-color: #ddd',
+					'background-color: #EBE4DE',
 				],
 				style = arrBaseStyles.concat( boolIsDarkMode ? arrDarkStyle : arrLightStyle ).join( ';' );
 
