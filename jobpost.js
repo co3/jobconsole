@@ -1,7 +1,7 @@
 ( function () {
 	var boolActive = true,
 		strHeader = 'Pssst! … ',
-		strText = 'Vi hedder Co3, og vi har bygget dette website. Vi har vokseværk, og vi har mange fede projekter i pibelinen, som du har mulighed for at få ansvaret for. Tag et kig forbi vores ledige stillinger her: https://co3.dk/om-os/karriere. Udover at bygge fede løsninger, holder vi fede fester, og at sige vi er gode til bordfodbold, vil være en underdrivelse. Vi glæder os til at møde dig!',
+		strText = 'Vi hedder Co3, og vi har bygget dette website. Vi har vokseværk, og vi har mange udviklingstunge projekter i pipelinen, som du har mulighed for at få ansvaret for. Tag et kig forbi vores ledige stillinger her: https://co3.dk/om-os/karriere. Udover at bygge digitale løsninger af høj kvalitet, holder vi fede fester, og at sige vi er gode til bordfodbold, vil være en underdrivelse. Vi glæder os til at møde dig!',
 		strLogoUrl = 'https://co3.dk/files/templates/designs/co3-2020/_assets/img/co3-logo-web-rgb.svg',
 		boolIsDarkMode = window.matchMedia && window.matchMedia( '(prefers-color-scheme: dark)' ).matches,
 		objLogo = new Image();
